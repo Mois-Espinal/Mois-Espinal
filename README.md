@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mois-Espinal
+- 👀 I’m interested in back-end developing
+- 🌱 I’m currently learning MySQL
