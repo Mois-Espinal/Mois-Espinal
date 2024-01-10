@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Mois-Espinal
 - 👀 I’m interested in back-end web development
-- 🌱 I’m currently learning MySQL
+  - 🌱 I’m currently learning about SQL
 - 🐧 I use linux for most of my productivity
